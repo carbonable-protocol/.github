@@ -2,7 +2,7 @@
     <h1>Carbonable Protocol </h1>
     <h2>This is our open-source Carbonable smart contract library, which is reusable for anyone looking to deploy sustainable development or ReFi protocols.</h2>
     <img src="resources/img/kss_logo.png" >
-<div align="center">
+<div align="left">
 
 **Welcome to Carbonable Protocol!**
 
