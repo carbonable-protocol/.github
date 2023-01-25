@@ -20,7 +20,7 @@ Here is the list of projects initiated by the exploration team:
 
 | Project  | Description                     | Repository                                     | Github Project                                          |
 | -------- | ------------------------------- | ---------------------------------------------- | ------------------------------------------------------- |
-| `TBD` | ZK-EVM type 3 written in Cairo, leveraging STARK proof system. | [link](https://github.com/sayajin-labs/kakarot) | [link](https://github.com/orgs/sayajin-labs/projects/3) |
+| `TBD` | TBD | tbd | tbd |
 
 
 ## Acknowledgements
